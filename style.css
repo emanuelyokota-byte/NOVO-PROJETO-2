@@ -35,3 +35,9 @@ background-color: blueviolet;
 .cartao-verso{
     background-color: chartreuse;
 }
+.cartao-verso{
+    background-color: brown;
+    position: absolute;
+    border-radius: 12px;
+    border: solid 5px red;
+}
